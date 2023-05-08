@@ -1,0 +1,10 @@
+
+public class Multiplebytwo {
+    static int multiplyBytwo(int number) {
+        return number * 2;
+    }
+    public static void main(String[] args) {
+        int result = multiplyBytwo(2);
+        System.out.println("The output is: " + result);
+    }
+}
